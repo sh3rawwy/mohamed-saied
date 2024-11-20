@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Saied CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info, .skills, .certificates {
+            list-style: none;
+            padding: 0;
+        }
+        .skills li, .certificates li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mohamed Saied Abdelwahab</h1>
+        <p>Network Engineer</p>
+        <p>12 Sherif Al-Rifai St, El-Marg, 11721 Cairo, Egypt</p>
+        <p>Email: mohamedvolck@gmail.com | Phone: (+20) 1070650550</p>
+    </header>
+    <hr>
+    <section class="section">
+        <h2>Professional Summary</h2>
+        <p>Proactive and detail-oriented Network Engineer with a Bachelor's degree in Computer Science specializing in Network Systems...</p>
+    </section>
+    <section class="section">
+        <h2>Education</h2>
+        <p>Bachelor's in Computer Science and Information Systems, Networks Department (June 2023)</p>
+    </section>
+    <section class="section">
+        <h2>Professional Experience</h2>
+        <h3>El Sewedy Electric (Trainee Network Engineer)</h3>
+        <ul>
+            <li>Assisted with network configuration and troubleshooting.</li>
+            <li>Documented configurations and procedures.</li>
+        </ul>
+        <h3>Bank Misr (Trainee Network Engineer)</h3>
+        <ul>
+            <li>Supported network monitoring and troubleshooting within banking systems.</li>
+        </ul>
+    </section>
+    <section class="section">
+        <h2>Certificates</h2>
+        <ul class="certificates">
+            <li>Banking Industry Introduction Program - Central Bank of Egypt</li>
+            <li>CCNA Certification | Cisco Certified Network Associate</li>
+        </ul>
+    </section>
+    <section class="section">
+        <h2>Skills</h2>
+        <ul class="skills">
+            <li>Network Infrastructure Management</li>
+            <li>Troubleshooting and Diagnostics</li>
+            <li>Security Protocols Implementation</li>
+        </ul>
+    </section>
+</body>
+</html>
+
